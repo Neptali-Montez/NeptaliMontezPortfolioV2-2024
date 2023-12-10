@@ -447,6 +447,9 @@ p {
     padding: 30px;
     
   }
+  .card_content a {
+    text-decoration: none;
+  }
   
   .card_title {
     color: #000;
