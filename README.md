@@ -1,2 +1,2 @@
-# NeptaliMontezPortfolioV2-2024
-HTML &amp; CSS Version
+# NeptaliMontezPortfolio-2024
+Portfolio showcasing development work.
