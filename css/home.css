@@ -43,11 +43,11 @@ a{
 }
 #contact{
   border-bottom-style: solid;
-  border-bottom-color: #03BACF;
+  border-bottom-color: #fff;
 }
 .navbar li.navbar_items a:hover {
   border-bottom-style: solid;
-  border-bottom-color: #03BACF;
+  border-bottom-color: #fff;
   /*   padding-bottom: 5px; */
 }
 
