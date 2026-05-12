@@ -354,7 +354,13 @@ p {
     /* border: 10px solid #000; */
     border-radius: 10px 10px 0px 0px;
   }
-  
+  video{
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    /* border: 10px solid #000; */
+    border-radius: 10px 10px 0px 0px;
+  }
   .btn {
     color: #000;
     padding: 0.5rem;
